@@ -1,0 +1,52 @@
+.active-status{
+    background-color: green;
+    border: 1px solid #bfbfbf;
+    border-radius: 10px;
+    width: 66%;
+    /* height: 45%; */
+    margin-top: 1;
+    text-align: center;
+    color: #fff;
+    margin: 5px !important;
+}
+.inactive {
+    background-color: red;
+    border: 1px solid #bfbfbf;
+    border-radius: 10px;
+    width: 66%;
+    /* height: 45%; */
+    margin-top: 1;
+    text-align: center;
+    color: #fff;
+    margin: 5px !important;
+}
+.super-admin {
+    background-color: #12457b;
+    border-radius: 14px;
+    text-align: center;
+    /* padding-top: 6px; */
+    padding: 6px;
+    min-width: 50%;
+    width: 75%;
+    color: #fff;
+}
+.admin {
+    background-color: #cfe25f;
+    border-radius: 14px;
+    text-align: center;
+    padding: 6px;
+    /* padding-top: 6px; */
+    min-width: 50%;
+    width: 75%;
+    color: #fff;
+}
+.user{
+    background-color: #da1bba;
+    border-radius: 14px;
+    text-align: center;
+    padding: 6px;
+    /* padding-top: 6px; */
+    min-width: 50%;
+    width: 75%;
+    color: #fff; 
+}

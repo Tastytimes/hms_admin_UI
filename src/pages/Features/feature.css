@@ -1,0 +1,11 @@
+ .feature__form{
+    display: flex; 
+
+} 
+
+.status__inputbox{
+    width:20px;
+    height: 20px;
+    float: right;
+}
+

@@ -1,0 +1,9 @@
+#status {
+    width: 5em !important;
+    height: 2em !important;
+}
+.switch-container > .form-label {
+    /* display: inline; */
+    font-size: 20px;
+    font-weight: 400;
+}

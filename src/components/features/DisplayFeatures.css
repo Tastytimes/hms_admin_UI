@@ -1,0 +1,8 @@
+.featureActive{
+    color: green !important;
+    font-weight: 800;
+}
+.featureinActive{
+    color: red !important;
+    font-weight: 800;
+}
